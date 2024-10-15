@@ -1,3 +1,2 @@
 # knightsim.github.io
-A knight simulation game
-Developed by Aiden Gertz
+A knight simulation game developed by Aiden Gertz
